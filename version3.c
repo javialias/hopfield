@@ -19,8 +19,6 @@ int main(void)
 
     //Definimos el tamaño de la red.
     int N=20;
-    //Definimos el número de patrones totales
-    int t=1;
     //Definimos la p sobre la que el bucle va a generar los patrones aleatorios
     int p=50;
     //Definimos una variable que irá sumando aquellas configuraciones que superen 0.75
